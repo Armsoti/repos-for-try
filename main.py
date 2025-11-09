@@ -5,3 +5,4 @@ b = 11
 print(b)
 
 print(a+b)
+print(a-b)
